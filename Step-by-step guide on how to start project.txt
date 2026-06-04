@@ -2,7 +2,7 @@
 
 1. Create a folder on the desktop
 2. Open the folder in Visual Studio Code
-3. Create a file named <b>weightmodel.ipynb</b>
+3. Create a file named "weightmodel.ipynb"
 4. Add a code cell
 5. Navigate to the following URL on Google: https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset
 6. Select the download button
