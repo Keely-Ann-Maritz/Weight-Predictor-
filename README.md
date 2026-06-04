@@ -1,5 +1,6 @@
+# Weight Predictor Application and Model
 
-# How to run the application
+## How to run the application
 1. Clone repository using GitHub Desktop or download the zip folder
 2. Open the WeightPredictor applicaiton in Android Studio
 3. Click the run icon in the top navigation bar
