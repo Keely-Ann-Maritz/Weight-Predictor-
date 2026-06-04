@@ -1,0 +1,32 @@
+# Step by step on how to start project from scratch
+
+1. Create a folder on the desktop
+2. Open the folder in Visual Studio Code
+3. Create a file named <b>weightmodel.ipynb</b>
+4. Add a code cell
+5. Navigate to the following URL on Google: https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset
+6. Select the download button
+7. Copy the code and paste it into the code cell, in Visual Studio Code
+8. Open a new terminal in Visual Studio Code
+9. Install Python by running the following command: python -m pip install numpy pandas tensorflow scikit-learn kagglehub
+10. Check if the latest version has been installed, by running the following command: python --version
+11. Ensure the path to dataset files is displaying under the code cell.
+12. Paste each code section of code into a code cell
+13. Run each code cell after pasting code
+14. Once the output displays as "Success model has been saved" it has been completed and the user continue with android application
+15. Create a "New Activity" Project in Android Studio 
+16. Ensure you can see the Android / App on the left project folders section
+17. Select Project in the dropdown 
+18. Navigate to app -> src -> main 
+19. Right click on main
+20. Navigate to new -> Directory 
+21. Provide a name for the directory and select the asset gradle source sets
+22. Navigate to the Visual Studio Code folder on your desktop
+23. Copy the height_weight.tflite file and paste it into the new assets folder, in Android Studio
+24. Add dependencies in the build.gradle.kts(Module:app)
+25. Add imports and code into the MainActivity.kt
+26. Save All
+27. Select the Run button on the top navigation bar to run the application
+28. Enter a height in the textfield
+29. Click on the Predict button
+30. View the Predicted weight based on the height provided. 
