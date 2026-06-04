@@ -1,6 +1,6 @@
 # Weight Predictor Application and Model
 
-## IDE Needed for the project
+## IDE 
 1. Install Visual Studio Code : [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 2. Install Android Studio : [https://developer.android.com/studio](https://developer.android.com/studio)
 
