@@ -22,12 +22,12 @@ The application allows users to enter their height in centimeters and receive a 
 ## User Interface
 <p align="center">
   <!--Main Activity User Interface-->
-  <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/6d432474-c306-491c-aaad-c28b406ce23f" />
+  <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/6d432474-c306-491c-aaad-c28b406ce23f" />
   
   <!--Entering Height value-->
-  <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/fc15a03f-1b43-4105-85ed-99e575127353" />
+  <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/fc15a03f-1b43-4105-85ed-99e575127353" />
   
   <!--Predicted Weight-->
-  <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/99ad6606-9369-47e0-b2b9-ff836045780a" />
+  <img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/99ad6606-9369-47e0-b2b9-ff836045780a" />
 </p>
 
