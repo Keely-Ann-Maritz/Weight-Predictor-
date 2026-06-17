@@ -20,13 +20,14 @@ The application allows users to enter their height in centimeters and receive a 
 6. View the predicted weight based on the height entered.
 
 ## User Interface
-<!--Main Activity User Interface-->
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/6d432474-c306-491c-aaad-c28b406ce23f" />
-
-<!--Entering Height value-->
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/fc15a03f-1b43-4105-85ed-99e575127353" />
-
-<!--Predicted Weight-->
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/99ad6606-9369-47e0-b2b9-ff836045780a" />
-
+<p align="center">
+  <!--Main Activity User Interface-->
+  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/6d432474-c306-491c-aaad-c28b406ce23f" />
+  
+  <!--Entering Height value-->
+  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/fc15a03f-1b43-4105-85ed-99e575127353" />
+  
+  <!--Predicted Weight-->
+  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/99ad6606-9369-47e0-b2b9-ff836045780a" />
+</p>
 
